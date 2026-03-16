@@ -1,6 +1,6 @@
 # 🤖  안녕하세요. 저는 강재구 입니다. 🐯
 
-[![Hits](https://komarev.com/ghpvc/?username=JaeguKang&label=Visitors&color=76FB11)](https://github.com/JaeguKang)
+[![Hits](https://komarev.com/ghpvc/?username=JaeguKang&label=Visitors&color=76FB11)](https://github.com/Jaegu-Kang)
 
 ### Get in Touch
 
