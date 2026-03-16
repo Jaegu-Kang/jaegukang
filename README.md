@@ -1,6 +1,6 @@
 # 🤖  안녕하세요. 저는 강재구 입니다. 🐯
 
-[![Hits](https://hitscounter.dev/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJaeguKang&count_bg=%2376FB11&title_bg=%23198BD7&icon=github.svg&icon_color=%23000000&title=Visitors&edge_flat=false)](https://hitscounter.dev)
+[![Hits](https://komarev.com/ghpvc/?username=JaeguKang&label=Visitors&color=76FB11)](https://github.com/JaeguKang)
 
 ### Get in Touch
 
